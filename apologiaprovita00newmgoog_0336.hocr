@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./apologiaprovita00newmgoog_0336.png"; bbox 0 0 963 1163; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 238 935 624 991">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 238 935 624 991">
+     <span class='ocr_line' id='line_1_1' title="bbox 238 935 624 957; baseline 0.005 -5"><span class='ocrx_word' id='word_1_1' title='bbox 238 935 428 957; x_wconf 66' lang='lat' dir='ltr'>tionuofl’rovidmoe5</span> <span class='ocrx_word' id='word_1_2' title='bbox 438 936 553 955; x_wconf 55' lang='lat' dir='ltr'>aust-ania</span> <span class='ocrx_word' id='word_1_3' title='bbox 564 935 624 955; x_wconf 63' lang='lat' dir='ltr'>ofin.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 346 960 620 991; baseline 0.004 -13"><span class='ocrx_word' id='word_1_4' title='bbox 346 960 600 991; x_wconf 53' lang='lat' dir='ltr'>betwmqnpzuvidmoeunda</span> <span class='ocrx_word' id='word_1_5' title='bbox 615 963 620 983; x_wconf 72' lang='lat' dir='ltr'><strong>j</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 150 60 814 1100">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 150 60 814 1100">
+     <span class='ocr_line' id='line_1_3' title="bbox 150 60 814 1100; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 150 60 814 1100; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
